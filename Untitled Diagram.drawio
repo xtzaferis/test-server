@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-30T14:57:56.306Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="JWwCxKuNpmyCa7ZlBq5w" version="17.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-30T15:16:35.214Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="8D5WVQGx1fSEBCobtoRw" version="17.2.5" type="github">
   <diagram id="BloK7KgIiPIShck0txBu" name="Page-1">
     <mxGraphModel dx="3239" dy="1643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" background="#ffffff" math="0" shadow="1">
       <root>
@@ -453,9 +453,6 @@
         </mxCell>
         <mxCell id="nN8ZbrXAPu-TwDH_L9tX-150" value="&lt;b&gt;&lt;font style=&quot;font-size: 22px&quot; color=&quot;#1a1a1a&quot;&gt;Så kommer 2, 3, 4&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=39;fontColor=#FF9933;" vertex="1" parent="1">
           <mxGeometry x="1476.25" y="552" width="200" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="nN8ZbrXAPu-TwDH_L9tX-151" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fontColor=#1A1A1A;strokeColor=#FF9933;strokeWidth=2;fillColor=#FFFFFF;gradientColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="1170" y="820" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
