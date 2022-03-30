@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-30T06:46:26.423Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="LQQTWS4txhFWUrHR0bKj" version="17.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-30T07:45:31.228Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="e-_p5Ov7g4uFodlMz1P8" version="17.2.5" type="github">
   <diagram id="BloK7KgIiPIShck0txBu" name="Page-1">
     <mxGraphModel dx="2915" dy="1555" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -8,7 +8,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="&lt;font style=&quot;font-size: 18px&quot;&gt;Isy.Services.Api&lt;/font&gt;" link="Isy.Services.Api" id="Rtryp6twmH3HQ59ZCYGV-1">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
             <mxGeometry x="90" y="50" width="150" height="60" as="geometry" />
           </mxCell>
         </UserObject>
@@ -51,12 +51,12 @@
             <mxGeometry x="680" y="920" width="220" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="nN8ZbrXAPu-TwDH_L9tX-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1" source="nN8ZbrXAPu-TwDH_L9tX-7" target="nN8ZbrXAPu-TwDH_L9tX-6">
+        <mxCell id="nN8ZbrXAPu-TwDH_L9tX-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="nN8ZbrXAPu-TwDH_L9tX-7" target="nN8ZbrXAPu-TwDH_L9tX-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="&lt;font style=&quot;font-size: 18px&quot;&gt;Nois.Isy360.Infra.EntityFramework.Di&lt;/font&gt;" link="Isy.Services.Api" id="nN8ZbrXAPu-TwDH_L9tX-7">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="90" y="520" width="330" height="60" as="geometry" />
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+            <mxGeometry x="190" y="620" width="330" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="nN8ZbrXAPu-TwDH_L9tX-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;startArrow=none;" edge="1" parent="1" source="nN8ZbrXAPu-TwDH_L9tX-12" target="nN8ZbrXAPu-TwDH_L9tX-6">
@@ -68,6 +68,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="nN8ZbrXAPu-TwDH_L9tX-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="1" source="nN8ZbrXAPu-TwDH_L9tX-10" target="nN8ZbrXAPu-TwDH_L9tX-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <UserObject label="&lt;font style=&quot;font-size: 18px&quot;&gt;Nois.Isy360.Infra.BlobStorage.Di&lt;/font&gt;" link="Isy.Services.Api" id="nN8ZbrXAPu-TwDH_L9tX-10">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
             <mxGeometry x="270" y="50" width="280" height="60" as="geometry" />
@@ -76,9 +79,8 @@
         <mxCell id="nN8ZbrXAPu-TwDH_L9tX-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;startArrow=none;" edge="1" parent="1" source="nN8ZbrXAPu-TwDH_L9tX-23" target="nN8ZbrXAPu-TwDH_L9tX-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="830" y="180" />
-              <mxPoint x="1100" y="180" />
-              <mxPoint x="1100" y="530" />
+              <mxPoint x="810" y="180" />
+              <mxPoint x="810" y="660" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -151,16 +153,9 @@
         </UserObject>
         <UserObject label="&lt;font style=&quot;font-size: 18px&quot;&gt;Isy.Services.Core&lt;/font&gt;" link="Isy.Services.Api" id="nN8ZbrXAPu-TwDH_L9tX-12">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="570" y="50" width="160" height="60" as="geometry" />
+            <mxGeometry x="590" y="140" width="160" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="nN8ZbrXAPu-TwDH_L9tX-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;endArrow=none;" edge="1" parent="1" source="nN8ZbrXAPu-TwDH_L9tX-10" target="nN8ZbrXAPu-TwDH_L9tX-12">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="550" y="80" as="sourcePoint" />
-            <mxPoint x="680" y="950" as="targetPoint" />
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
         <UserObject label="&lt;font style=&quot;font-size: 18px&quot;&gt;Isy.Services.Core.Abstraction&lt;/font&gt;" link="Isy.Services.Api" id="nN8ZbrXAPu-TwDH_L9tX-23">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
             <mxGeometry x="940" y="140" width="260" height="60" as="geometry" />
@@ -194,6 +189,67 @@
         <UserObject label="&lt;font style=&quot;font-size: 18px&quot;&gt;Infra.Isy360HttpClient.Di&lt;/font&gt;" link="Isy.Services.Api" id="nN8ZbrXAPu-TwDH_L9tX-36">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
             <mxGeometry x="140" y="1050" width="230" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="nN8ZbrXAPu-TwDH_L9tX-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="nN8ZbrXAPu-TwDH_L9tX-39" target="nN8ZbrXAPu-TwDH_L9tX-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;font style=&quot;font-size: 18px&quot;&gt;Infra.Isy360HttpClient.Repo&lt;/font&gt;" link="Isy.Services.Api" id="nN8ZbrXAPu-TwDH_L9tX-39">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="140" y="1150" width="240" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="nN8ZbrXAPu-TwDH_L9tX-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="1" source="nN8ZbrXAPu-TwDH_L9tX-41" target="nN8ZbrXAPu-TwDH_L9tX-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;font style=&quot;font-size: 18px&quot;&gt;Infra.ServiceBus.Di&lt;/font&gt;" link="Isy.Services.Api" id="nN8ZbrXAPu-TwDH_L9tX-41">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="140" y="1240" width="190" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="nN8ZbrXAPu-TwDH_L9tX-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="nN8ZbrXAPu-TwDH_L9tX-43" target="nN8ZbrXAPu-TwDH_L9tX-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nN8ZbrXAPu-TwDH_L9tX-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="1" source="nN8ZbrXAPu-TwDH_L9tX-43" target="nN8ZbrXAPu-TwDH_L9tX-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nN8ZbrXAPu-TwDH_L9tX-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="1" source="nN8ZbrXAPu-TwDH_L9tX-43" target="nN8ZbrXAPu-TwDH_L9tX-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;font style=&quot;font-size: 18px&quot;&gt;Infra.ServiceBus.UseCase&lt;/font&gt;" link="Isy.Services.Api" id="nN8ZbrXAPu-TwDH_L9tX-43">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="140" y="1340" width="230" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="nN8ZbrXAPu-TwDH_L9tX-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.195;entryY=1.056;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=18;" edge="1" parent="1" source="nN8ZbrXAPu-TwDH_L9tX-44" target="nN8ZbrXAPu-TwDH_L9tX-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nN8ZbrXAPu-TwDH_L9tX-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="nN8ZbrXAPu-TwDH_L9tX-44" target="nN8ZbrXAPu-TwDH_L9tX-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;font style=&quot;font-size: 18px&quot;&gt;Seedwork.Repository&lt;/font&gt;" link="Isy.Services.Api" id="nN8ZbrXAPu-TwDH_L9tX-44">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="975" y="1370" width="195" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="nN8ZbrXAPu-TwDH_L9tX-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="nN8ZbrXAPu-TwDH_L9tX-51" target="nN8ZbrXAPu-TwDH_L9tX-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="350" y="170" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nN8ZbrXAPu-TwDH_L9tX-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.482;entryY=-0.011;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=18;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="nN8ZbrXAPu-TwDH_L9tX-51" target="nN8ZbrXAPu-TwDH_L9tX-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="350" y="480" />
+              <mxPoint x="350" y="480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="&lt;font style=&quot;font-size: 18px&quot;&gt;Nois.Isy360.Service&lt;/font&gt;" link="Isy.Services.Api" id="nN8ZbrXAPu-TwDH_L9tX-51">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+            <mxGeometry x="250" y="290" width="185" height="60" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
